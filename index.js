@@ -37,5 +37,18 @@ class Queue {
   add(methods) {
     this._queuedMethods.push(...methods)
   }
+  /**
+   * Remove methods from queue.
+   * @param {Number[]|Number} index 
+   */
+  remove(...index) { 
+    if (typeof index == "array") {
+      index.forEach(i => {
+        this._queuedMethods.splice(i, 1)
+      })
+    } else {
+      this._queuedMethods.splice(index[0], 1)
+    }
+  }
 }
 module.exports = Queue
