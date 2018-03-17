@@ -2,6 +2,8 @@
 
 MethodQueue is a simple queueing system for methods for Javascript.
 
+[![NPM](https://nodei.co/npm/methodqueue.png)](https://nodei.co/npm/methodqueue/)
+
 ## Basic Usage
 
 Install MethodQueue using NPM:
