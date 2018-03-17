@@ -1,0 +1,8 @@
+{
+  "name": "methodqueue",
+  "version": "0.0.1",
+  "description": "A simple queueing system for methods.",
+  "main": "index.js",
+  "author": "acorn",
+  "license": "MIT"
+}
