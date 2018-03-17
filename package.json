@@ -1,8 +1,16 @@
 {
   "name": "methodqueue",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "A simple queueing system for methods.",
   "main": "index.js",
   "author": "acorn",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsacorn/methodqueue.git"
+  },
+  "bugs": {
+    "url": "https://github.com/itsacorn/methodqueue/issues"
+  },
+  "homepage": "https://github.com/itsacorn/methodqueue#readme"
 }
