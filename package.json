@@ -1,6 +1,6 @@
 {
   "name": "methodqueue",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "A simple queueing system for methods.",
   "main": "index.js",
   "author": "acorn",
