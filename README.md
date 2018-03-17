@@ -6,7 +6,7 @@ MethodQueue is a simple queueing system for methods for Javascript.
 
 Install MethodQueue using NPM:
 ```
-npm i jscoord --save
+npm i methodqueue --save
 ```
 Once installed, you can import it into your application using: 
 ```js
