@@ -3,7 +3,7 @@ class Queue {
    * @param {Function[]} methods Methods to add to queue. 
    */
   constructor(methods) {
-    this._queuedMethods = methods
+    this._queuedMethods = methods || []
     this._processedMethods = 0
   }
   /**
